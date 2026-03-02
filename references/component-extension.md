@@ -1,10 +1,10 @@
-# Applying Aesthetics to UI
+# Applying Colors to UI
 
-This reference shows how to translate an aesthetic's color palette and visual identity into practical UI code across different frameworks, and how to derive component styles from the core palette.
+How to output palette colors in different frameworks, and how to derive UI component colors from the 10-color palette.
 
 ## Framework Output Templates
 
-When outputting an aesthetic's colors and fonts for a specific framework, use these templates:
+When outputting a palette's colors for a specific framework, use these templates:
 
 ### CSS Custom Properties
 
@@ -92,9 +92,9 @@ $font-body: {{font-body}};
 $radius-block: {{radius-block}};
 ```
 
-## Deriving Component Styles
+## Deriving Component Colors
 
-The aesthetic files provide color palettes and visual identity. Use these rules to derive UI component styles. **Never invent new colors — derive from the existing palette.**
+The palette gives you 10 base colors. Use these rules to derive colors for UI components. **Never invent new colors — derive from the palette.**
 
 ### Buttons
 

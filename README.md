@@ -1,6 +1,6 @@
 # color-palettes
 
-30 pre-matched color palettes for Claude Code. Describe the vibe, get 10 hex values that work together.
+30 pre-matched color palettes for any project. Describe the vibe, get 10 hex values that work together.
 
 > "I want something warm" → **Sunset**: `#fdf6ee` bg, `#c0582a` accent, `#3d2c1e` text...
 
